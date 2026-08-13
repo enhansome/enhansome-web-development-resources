@@ -1,0 +1,197 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [],
+      "title": "Wiki"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mobile Web apps frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Front-end components"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "HTML5 themes"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "HTML preprocessor"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CSS preprocessor"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "JavaScript preprocessor"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Sass frameworks"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Node.js feature module and bundler"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "JavaScript library"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Vanilla JavaScript plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "jQuery plugins"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "JavaScript compressor toolkit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CSS library"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "SVG, PNG, and Font icons library"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "PNG, JPEG, GIF compressor toolkit"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "HTML forms"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Web tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CDN library"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Browser compatibility wiki"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Responsiveness testing tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Performance testing tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Placeholder"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Mockup placeholder"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Website icons for browsers"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Free inspirational snippets and tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CSS reference"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CSS tutorials"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Infographics"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Design inspiration"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "The type system"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Webmaster tools"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Package manager"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "Jamstack"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "CheatSheet😎"
+    },
+    {
+      "description": "",
+      "items": [],
+      "title": "List of lists of lists"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T04:09:25.418Z",
+    "original_repository": "milanaryal/web-development-resources",
+    "original_repository_sha": "b8ef79c8acca89931f5e1df5a319a84e0b3ad1b5",
+    "enhanced_repository": "enhansome/enhansome-web-development-resources",
+    "enhanced_repository_description": null,
+    "title": "Awesome web development resources with stars"
+  }
+}
