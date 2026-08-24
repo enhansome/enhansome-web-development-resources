@@ -1,7 +1,839 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "linkinator",
+          "description": "A super simple site crawler and broken link checker.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170236232,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T06:12:44Z",
+            "owner": "JustinBeckwith",
+            "repo": "linkinator",
+            "stars": 1252
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Browsersync",
+          "description": "Keep multiple browsers & devices in sync when building websites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13527761,
+            "language": "JavaScript",
+            "last_commit": "2026-05-09T08:29:15Z",
+            "owner": "BrowserSync",
+            "repo": "browser-sync",
+            "stars": 12290
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "http-server",
+          "description": "A simple, zero-configuration command-line http server.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1908577,
+            "language": "JavaScript",
+            "last_commit": "2026-04-15T11:09:09Z",
+            "owner": "http-party",
+            "repo": "http-server",
+            "stars": 14239
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "serve",
+          "description": "Static file serving and directory listing.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57182064,
+            "language": "TypeScript",
+            "last_commit": "2026-06-30T19:11:35Z",
+            "owner": "vercel",
+            "repo": "serve",
+            "stars": 9895
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "server.js",
+          "description": "Simple and powerful server for Node.js",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 76990724,
+            "language": "JavaScript",
+            "last_commit": "2026-07-26T04:11:44Z",
+            "owner": "franciscop",
+            "repo": "server",
+            "stars": 3555
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chokidar",
+          "description": "An efficient wrapper around node.js fs.watch / fs.watchFile / FSEvents.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4090287,
+            "language": "TypeScript",
+            "last_commit": "2026-08-16T15:34:26Z",
+            "owner": "paulmillr",
+            "repo": "chokidar",
+            "stars": 12221
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodemon",
+          "description": "Monitor for any changes in your node.js application and automatically restart the server - perfect for development.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 958314,
+            "language": "JavaScript",
+            "last_commit": "2026-08-19T19:50:21Z",
+            "owner": "remy",
+            "repo": "nodemon",
+            "stars": 26677
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "onchange",
+          "description": "Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 16022081,
+            "language": "TypeScript",
+            "last_commit": "2026-06-18T20:53:10Z",
+            "owner": "Qard",
+            "repo": "onchange",
+            "stars": 826
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Concurrently",
+          "description": "Run commands concurrently. Like but better.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 390305074,
+            "language": null,
+            "last_commit": "2021-07-28T15:18:58Z",
+            "owner": "kimmobrunfeldt",
+            "repo": "concurrently",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npm-run-all",
+          "description": "A CLI tool to run multiple npm-scripts in parallel or sequential.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 32727687,
+            "language": "JavaScript",
+            "last_commit": "2024-08-15T05:51:28Z",
+            "owner": "mysticatea",
+            "repo": "npm-run-all",
+            "stars": 5838
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parallel Shell",
+          "description": "A super simple npm module to run shell commands in parallel.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 27354180,
+            "language": "JavaScript",
+            "last_commit": "2020-09-06T01:46:58Z",
+            "owner": "darkguy2008",
+            "repo": "parallelshell",
+            "stars": 497
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Concat",
+          "description": "Concatenate multiple files.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79488696,
+            "language": "JavaScript",
+            "last_commit": "2018-05-28T14:02:47Z",
+            "owner": "gko",
+            "repo": "concat",
+            "stars": 40
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpy-cli",
+          "description": "Copy files for node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48960698,
+            "language": "JavaScript",
+            "last_commit": "2026-02-05T07:39:28Z",
+            "owner": "sindresorhus",
+            "repo": "cpy-cli",
+            "stars": 360
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "del",
+          "description": "Delete files and directories using globs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21078071,
+            "language": "JavaScript",
+            "last_commit": "2026-07-21T15:58:02Z",
+            "owner": "sindresorhus",
+            "repo": "del",
+            "stars": 1344
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "express",
+          "description": "Fast, unopinionated, minimalist web framework for node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 237159,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T21:00:02Z",
+            "owner": "expressjs",
+            "repo": "express",
+            "stars": 69393
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "node-sass",
+          "description": "It allows you to natively compile .scss files to css at incredible speed and automatically via a connect middleware.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 4128353,
+            "language": "C++",
+            "last_commit": "2024-07-24T21:59:31Z",
+            "owner": "sass",
+            "repo": "node-sass",
+            "stars": 8458
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "npm-check-updates",
+          "description": "Upgrades your package.json dependencies to the latest versions, ignoring specified versions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12658090,
+            "language": "TypeScript",
+            "last_commit": "2026-08-24T12:07:35Z",
+            "owner": "raineorshine",
+            "repo": "npm-check-updates",
+            "stars": 10301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rimraf",
+          "description": "The UNIX command for node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1341324,
+            "language": "TypeScript",
+            "last_commit": "2026-05-15T19:38:06Z",
+            "owner": "isaacs",
+            "repo": "rimraf",
+            "stars": 5851
+          }
+        }
+      ],
+      "title": "Node.js feature module and bundler"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Cash JS",
+          "description": "An absurdly small jQuery alternative for modern browsers.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 24229490,
+            "language": "JavaScript",
+            "last_commit": "2026-07-17T21:02:06Z",
+            "owner": "fabiospampinato",
+            "repo": "cash",
+            "stars": 7033
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chibi JS",
+          "description": "A tiny JavaScript micro-library",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 4778575,
+            "language": "JavaScript",
+            "last_commit": "2020-11-13T15:36:17Z",
+            "owner": "kylebarrow",
+            "repo": "chibi",
+            "stars": 574
+          }
+        }
+      ],
+      "title": "JavaScript library"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "(a) Darkmode.js",
+          "description": "(b) Dark Mode Switch 🌓 Add a dark-mode / night-mode to your website in a few seconds",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 191753050,
+            "language": "JavaScript",
+            "last_commit": "2023-03-28T12:35:03Z",
+            "owner": "sandoche",
+            "repo": "Darkmode.js",
+            "stars": 2773
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FluidVids.js",
+          "description": "Fluid width (responsive) videos module, 1KB, custom players, dynamic elements/XHR support.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 7761201,
+            "language": "JavaScript",
+            "last_commit": "2022-08-11T23:13:32Z",
+            "owner": "toddmotto",
+            "repo": "fluidvids",
+            "stars": 415
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Highlight.js",
+          "description": "Highlight.js is a syntax highlighter written in JavaScript.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1213225,
+            "language": "JavaScript",
+            "last_commit": "2026-08-23T19:59:14Z",
+            "owner": "highlightjs",
+            "repo": "highlight.js",
+            "stars": 24984
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lazysizes.js",
+          "description": "High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 25095239,
+            "language": "JavaScript",
+            "last_commit": "2024-04-03T08:17:04Z",
+            "owner": "aFarkas",
+            "repo": "lazysizes",
+            "stars": 17718
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "littlefoot.js",
+          "description": "Littlefoot is a lightweight JavaScript library that creates exceptional footnotes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 52560024,
+            "language": "TypeScript",
+            "last_commit": "2026-08-22T10:57:03Z",
+            "owner": "goblindegook",
+            "repo": "littlefoot",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Pace.js",
+          "description": "An automatic web page progress bar.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 12774825,
+            "language": "CSS",
+            "last_commit": "2024-02-26T22:12:24Z",
+            "owner": "CodeByZach",
+            "repo": "pace",
+            "stars": 15599
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Prism.js",
+          "description": "Prism is a lightweight, robust, elegant syntax highlighting library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4979467,
+            "language": "JavaScript",
+            "last_commit": "2026-06-29T15:55:31Z",
+            "owner": "PrismJS",
+            "repo": "prism",
+            "stars": 13037
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "react-burger-menu",
+          "description": "An off-canvas sidebar React component with a collection of effects and styles using CSS transitions and SVG path animations.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39150065,
+            "language": "JavaScript",
+            "last_commit": "2025-11-14T14:38:45Z",
+            "owner": "negomi",
+            "repo": "react-burger-menu",
+            "stars": 5087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Smartcrop.js",
+          "description": "Content aware image cropping.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18405734,
+            "language": "JavaScript",
+            "last_commit": "2024-03-16T23:45:27Z",
+            "owner": "jwagner",
+            "repo": "smartcrop.js",
+            "stars": 12955
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tooltip.js",
+          "description": "Tooltip.js is a Javascript and CSS library for creating styleable tooltips.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 15270032,
+            "language": "CSS",
+            "last_commit": "2016-11-28T14:17:18Z",
+            "owner": "HubSpot",
+            "repo": "tooltip",
+            "stars": 709
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Turbolinks",
+          "description": "Turbolinks® makes navigating your web application faster.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 50807547,
+            "language": "TypeScript",
+            "last_commit": "2021-08-11T02:49:14Z",
+            "owner": "turbolinks",
+            "repo": "turbolinks",
+            "stars": 12581
+          }
+        }
+      ],
+      "title": "Vanilla JavaScript plugins"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Terser",
+          "description": "🗜 JavaScript parser, mangler and compressor toolkit for ES6+",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 29097127,
+            "language": "JavaScript",
+            "last_commit": "2026-08-22T21:00:48Z",
+            "owner": "terser",
+            "repo": "terser",
+            "stars": 9324
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "UglifyJS",
+          "description": "UglifyJS is a JavaScript parser, minifier, compressor and beautifier toolkit.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5569059,
+            "language": "JavaScript",
+            "last_commit": "2024-11-22T08:11:38Z",
+            "owner": "mishoo",
+            "repo": "UglifyJS",
+            "stars": 13381
+          }
+        }
+      ],
+      "title": "JavaScript compressor toolkit"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Raisin CSS",
+          "description": "An Utility CSS only library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 168170002,
+            "language": "CSS",
+            "last_commit": "2024-06-16T10:30:17Z",
+            "owner": "tretapey",
+            "repo": "raisincss",
+            "stars": 118
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Spectrum CSS",
+          "description": "standard CSS implementation of the Spectrum design language for internal and 3rd party",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 156265758,
+            "language": "CSS",
+            "last_commit": "2026-08-20T06:59:06Z",
+            "owner": "adobe",
+            "repo": "spectrum-css",
+            "stars": 1289
+          }
+        }
+      ],
+      "title": "CSS library"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Base16",
+          "description": "An architecture for building themes based on carefully chosen syntax highlighting using a base of sixteen colors.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 511014398,
+            "language": null,
+            "last_commit": "2023-10-12T02:42:54Z",
+            "owner": "chriskempson",
+            "repo": "base16",
+            "stars": 959
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Colors.css",
+          "description": "Better default colors for the web. A collection of skin classes for faster prototyping and nicer looking sites.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 10731382,
+            "language": "CSS",
+            "last_commit": "2023-07-20T09:56:41Z",
+            "owner": "mrmrs",
+            "repo": "colors",
+            "stars": 9409
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solarized - Precision colors for machines and people",
+          "description": "Solarized is a sixteen color palette (eight monotones, eight accent colors) designed for use with terminal and gui applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 1381283,
+            "language": "Vim script",
+            "last_commit": "2024-07-11T19:57:30Z",
+            "owner": "altercation",
+            "repo": "solarized",
+            "stars": 16008
+          }
+        }
+      ],
+      "title": "Web tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Responsively App",
+          "description": "A must-have devtool for web developers for quicker responsive web development. 🚀",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 201570219,
+            "language": "TypeScript",
+            "last_commit": "2026-08-02T05:24:28Z",
+            "owner": "responsively-org",
+            "repo": "responsively-app",
+            "stars": 25132
+          }
+        }
+      ],
+      "title": "Responsiveness testing tools"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Home Office Posters",
+          "description": "Home Office repository of posters covering different topics - research, access needs, accessibility, design.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 60259108,
+            "language": null,
+            "last_commit": "2025-05-30T12:44:56Z",
+            "owner": "UKHomeOffice",
+            "repo": "posters",
+            "stars": 2915
+          }
+        }
+      ],
+      "title": "Infographics"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "goenv",
+          "description": "goenv aims to be as simple as possible and follow the already established successful version management model of pyenv and rbenv.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 56429359,
+            "language": "Shell",
+            "last_commit": "2026-08-20T12:49:07Z",
+            "owner": "go-nv",
+            "repo": "goenv",
+            "stars": 2537
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nodenv",
+          "description": "Use nodenv to pick a Node version for your application and guarantee that your development environment matches production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 8685986,
+            "language": "Shell",
+            "last_commit": "2026-08-24T03:08:50Z",
+            "owner": "nodenv",
+            "repo": "nodenv",
+            "stars": 2413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "pyenv",
+          "description": "pyenv lets you easily switch between multiple versions of Python.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 5625464,
+            "language": "Shell",
+            "last_commit": "2026-08-16T22:51:28Z",
+            "owner": "pyenv",
+            "repo": "pyenv",
+            "stars": 45043
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rbenv",
+          "description": "Use rbenv to pick a Ruby version for your application and guarantee that your development environment matches production.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 2139017,
+            "language": "Shell",
+            "last_commit": "2026-07-14T14:02:43Z",
+            "owner": "rbenv",
+            "repo": "rbenv",
+            "stars": 16736
+          }
+        }
+      ],
+      "title": "Package manager"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Markdown Cheatsheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 4311796,
+            "language": "JavaScript",
+            "last_commit": "2025-08-22T00:21:50Z",
+            "owner": "adam-p",
+            "repo": "markdown-here",
+            "stars": 60248
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "github-cheat-sheet",
+          "description": null,
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 18708860,
+            "language": null,
+            "last_commit": "2024-04-15T20:15:56Z",
+            "owner": "tiimgreen",
+            "repo": "github-cheat-sheet",
+            "stars": 58695
+          }
+        }
+      ],
+      "title": "CheatSheet😎"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Awesome",
+          "description": "A curated list of awesome lists.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21737465,
+            "language": null,
+            "last_commit": "2026-08-21T12:39:13Z",
+            "owner": "sindresorhus",
+            "repo": "awesome",
+            "stars": 499520
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Awesomeness",
+          "description": "A curated list of amazingly awesome awesomeness.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21600440,
+            "language": "Ruby",
+            "last_commit": "2024-06-02T22:46:41Z",
+            "owner": "bayandin",
+            "repo": "awesome-awesomeness",
+            "stars": 33620
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Awesome",
+          "description": "A curated list of awesome curated lists of many topics.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 21388604,
+            "language": null,
+            "last_commit": "2024-07-31T23:19:05Z",
+            "owner": "emijrp",
+            "repo": "awesome-awesome",
+            "stars": 3201
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Design Resources For Developers",
+          "description": "A curated list of FREE design & UI resources for developers including stock photos, templates, frameworks, UI Kits, online tools and much much more.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 261787758,
+            "language": null,
+            "last_commit": "2026-05-24T10:07:48Z",
+            "owner": "bradtraversy",
+            "repo": "design-resources-for-developers",
+            "stars": 66746
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Social Share URLs",
+          "description": "This project is intended to help you integrate sharing on social media within your code.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 13703570,
+            "language": "JavaScript",
+            "last_commit": "2024-03-04T16:23:44Z",
+            "owner": "bradvin",
+            "repo": "social-share-urls",
+            "stars": 2832
+          }
+        }
+      ],
+      "title": "List of lists of lists"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T05:50:34.429Z",
+    "last_updated": "2026-08-24T14:34:04.728Z",
     "original_repository": "milanaryal/web-development-resources",
     "original_repository_id": 29389853,
     "original_repository_sha": "b8ef79c8acca89931f5e1df5a319a84e0b3ad1b5",
