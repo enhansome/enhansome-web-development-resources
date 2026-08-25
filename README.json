@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T06:12:44Z",
             "owner": "JustinBeckwith",
             "repo": "linkinator",
-            "stars": 1252
+            "stars": 1253
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-16T15:34:26Z",
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12221
+            "stars": 12222
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-22T21:00:02Z",
             "owner": "expressjs",
             "repo": "express",
-            "stars": 69393
+            "stars": 69396
           }
         },
         {
@@ -240,7 +240,7 @@
             "last_commit": "2024-07-24T21:59:31Z",
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8458
+            "stars": 8457
           }
         },
         {
@@ -252,7 +252,7 @@
             "archived": false,
             "id": 12658090,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T12:07:35Z",
+            "last_commit": "2026-08-25T05:25:33Z",
             "owner": "raineorshine",
             "repo": "npm-check-updates",
             "stars": 10301
@@ -354,10 +354,10 @@
             "archived": false,
             "id": 1213225,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T19:59:14Z",
+            "last_commit": "2026-08-24T18:23:54Z",
             "owner": "highlightjs",
             "repo": "highlight.js",
-            "stars": 24984
+            "stars": 24985
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2024-02-26T22:12:24Z",
             "owner": "CodeByZach",
             "repo": "pace",
-            "stars": 15599
+            "stars": 15600
           }
         },
         {
@@ -417,7 +417,7 @@
             "last_commit": "2026-06-29T15:55:31Z",
             "owner": "PrismJS",
             "repo": "prism",
-            "stars": 13037
+            "stars": 13038
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2024-07-11T19:57:30Z",
             "owner": "altercation",
             "repo": "solarized",
-            "stars": 16008
+            "stars": 16009
           }
         }
       ],
@@ -621,7 +621,7 @@
             "last_commit": "2026-08-02T05:24:28Z",
             "owner": "responsively-org",
             "repo": "responsively-app",
-            "stars": 25132
+            "stars": 25133
           }
         }
       ],
@@ -693,7 +693,7 @@
             "last_commit": "2026-08-16T22:51:28Z",
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45043
+            "stars": 45042
           }
         },
         {
@@ -708,7 +708,7 @@
             "last_commit": "2026-07-14T14:02:43Z",
             "owner": "rbenv",
             "repo": "rbenv",
-            "stars": 16736
+            "stars": 16735
           }
         }
       ],
@@ -729,7 +729,7 @@
             "last_commit": "2025-08-22T00:21:50Z",
             "owner": "adam-p",
             "repo": "markdown-here",
-            "stars": 60248
+            "stars": 60249
           }
         },
         {
@@ -744,7 +744,7 @@
             "last_commit": "2024-04-15T20:15:56Z",
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58695
+            "stars": 58703
           }
         }
       ],
@@ -765,7 +765,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499520
+            "stars": 499691
           }
         },
         {
@@ -780,7 +780,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33620
+            "stars": 33625
           }
         },
         {
@@ -795,7 +795,7 @@
             "last_commit": "2024-07-31T23:19:05Z",
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3201
+            "stars": 3203
           }
         },
         {
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:34:04.728Z",
+    "last_updated": "2026-08-25T05:48:47.040Z",
     "original_repository": "milanaryal/web-development-resources",
     "original_repository_id": 29389853,
     "original_repository_sha": "b8ef79c8acca89931f5e1df5a319a84e0b3ad1b5",
