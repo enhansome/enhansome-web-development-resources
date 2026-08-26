@@ -12,10 +12,10 @@
             "archived": false,
             "id": 170236232,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T06:12:44Z",
+            "last_commit": "2026-08-25T06:39:24Z",
             "owner": "JustinBeckwith",
             "repo": "linkinator",
-            "stars": 1253
+            "stars": 1254
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-04-15T11:09:09Z",
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14239
+            "stars": 14233
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-06-30T19:11:35Z",
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9895
+            "stars": 9896
           }
         },
         {
@@ -90,7 +90,7 @@
             "last_commit": "2026-08-16T15:34:26Z",
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12222
+            "stars": 12223
           }
         },
         {
@@ -150,7 +150,7 @@
             "last_commit": "2024-08-15T05:51:28Z",
             "owner": "mysticatea",
             "repo": "npm-run-all",
-            "stars": 5838
+            "stars": 5837
           }
         },
         {
@@ -252,10 +252,10 @@
             "archived": false,
             "id": 12658090,
             "language": "TypeScript",
-            "last_commit": "2026-08-25T05:25:33Z",
+            "last_commit": "2026-08-25T20:12:46Z",
             "owner": "raineorshine",
             "repo": "npm-check-updates",
-            "stars": 10301
+            "stars": 10302
           }
         },
         {
@@ -291,7 +291,7 @@
             "last_commit": "2026-07-17T21:02:06Z",
             "owner": "fabiospampinato",
             "repo": "cash",
-            "stars": 7033
+            "stars": 7034
           }
         },
         {
@@ -384,7 +384,7 @@
             "archived": false,
             "id": 52560024,
             "language": "TypeScript",
-            "last_commit": "2026-08-22T10:57:03Z",
+            "last_commit": "2026-08-26T01:42:05Z",
             "owner": "goblindegook",
             "repo": "littlefoot",
             "stars": 256
@@ -432,7 +432,7 @@
             "last_commit": "2025-11-14T14:38:45Z",
             "owner": "negomi",
             "repo": "react-burger-menu",
-            "stars": 5087
+            "stars": 5086
           }
         },
         {
@@ -498,7 +498,7 @@
             "last_commit": "2026-08-22T21:00:48Z",
             "owner": "terser",
             "repo": "terser",
-            "stars": 9324
+            "stars": 9325
           }
         },
         {
@@ -513,7 +513,7 @@
             "last_commit": "2024-11-22T08:11:38Z",
             "owner": "mishoo",
             "repo": "UglifyJS",
-            "stars": 13381
+            "stars": 13382
           }
         }
       ],
@@ -570,7 +570,7 @@
             "last_commit": "2023-10-12T02:42:54Z",
             "owner": "chriskempson",
             "repo": "base16",
-            "stars": 959
+            "stars": 960
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2024-07-11T19:57:30Z",
             "owner": "altercation",
             "repo": "solarized",
-            "stars": 16009
+            "stars": 16011
           }
         }
       ],
@@ -663,7 +663,7 @@
             "last_commit": "2026-08-20T12:49:07Z",
             "owner": "go-nv",
             "repo": "goenv",
-            "stars": 2537
+            "stars": 2539
           }
         },
         {
@@ -678,7 +678,7 @@
             "last_commit": "2026-08-24T03:08:50Z",
             "owner": "nodenv",
             "repo": "nodenv",
-            "stars": 2413
+            "stars": 2412
           }
         },
         {
@@ -690,10 +690,10 @@
             "archived": false,
             "id": 5625464,
             "language": "Shell",
-            "last_commit": "2026-08-16T22:51:28Z",
+            "last_commit": "2026-08-26T03:00:53Z",
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45042
+            "stars": 45043
           }
         },
         {
@@ -708,7 +708,7 @@
             "last_commit": "2026-07-14T14:02:43Z",
             "owner": "rbenv",
             "repo": "rbenv",
-            "stars": 16735
+            "stars": 16732
           }
         }
       ],
@@ -729,7 +729,7 @@
             "last_commit": "2025-08-22T00:21:50Z",
             "owner": "adam-p",
             "repo": "markdown-here",
-            "stars": 60249
+            "stars": 60248
           }
         },
         {
@@ -744,7 +744,7 @@
             "last_commit": "2024-04-15T20:15:56Z",
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58703
+            "stars": 58718
           }
         }
       ],
@@ -765,7 +765,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 499706
+            "stars": 499993
           }
         },
         {
@@ -780,7 +780,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33625
+            "stars": 33624
           }
         },
         {
@@ -810,7 +810,7 @@
             "last_commit": "2026-05-24T10:07:48Z",
             "owner": "bradtraversy",
             "repo": "design-resources-for-developers",
-            "stars": 66746
+            "stars": 66747
           }
         },
         {
@@ -825,7 +825,7 @@
             "last_commit": "2024-03-04T16:23:44Z",
             "owner": "bradvin",
             "repo": "social-share-urls",
-            "stars": 2832
+            "stars": 2831
           }
         }
       ],
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:22:37.598Z",
+    "last_updated": "2026-08-26T05:47:27.227Z",
     "original_repository": "milanaryal/web-development-resources",
     "original_repository_id": 29389853,
     "original_repository_sha": "b8ef79c8acca89931f5e1df5a319a84e0b3ad1b5",
