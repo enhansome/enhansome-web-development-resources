@@ -90,7 +90,7 @@
             "last_commit": "2026-08-16T15:34:26Z",
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12226
+            "stars": 12227
           }
         },
         {
@@ -225,7 +225,7 @@
             "last_commit": "2026-08-22T21:00:02Z",
             "owner": "expressjs",
             "repo": "express",
-            "stars": 69400
+            "stars": 69402
           }
         },
         {
@@ -357,7 +357,7 @@
             "last_commit": "2026-08-27T01:02:04Z",
             "owner": "highlightjs",
             "repo": "highlight.js",
-            "stars": 24984
+            "stars": 24983
           }
         },
         {
@@ -372,7 +372,7 @@
             "last_commit": "2024-04-03T08:17:04Z",
             "owner": "aFarkas",
             "repo": "lazysizes",
-            "stars": 17718
+            "stars": 17716
           }
         },
         {
@@ -477,7 +477,7 @@
             "last_commit": "2021-08-11T02:49:14Z",
             "owner": "turbolinks",
             "repo": "turbolinks",
-            "stars": 12580
+            "stars": 12581
           }
         }
       ],
@@ -570,7 +570,7 @@
             "last_commit": "2023-10-12T02:42:54Z",
             "owner": "chriskempson",
             "repo": "base16",
-            "stars": 960
+            "stars": 961
           }
         },
         {
@@ -600,7 +600,7 @@
             "last_commit": "2024-07-11T19:57:30Z",
             "owner": "altercation",
             "repo": "solarized",
-            "stars": 16011
+            "stars": 16010
           }
         }
       ],
@@ -621,7 +621,7 @@
             "last_commit": "2026-08-02T05:24:28Z",
             "owner": "responsively-org",
             "repo": "responsively-app",
-            "stars": 25138
+            "stars": 25139
           }
         }
       ],
@@ -708,7 +708,7 @@
             "last_commit": "2026-07-14T14:02:43Z",
             "owner": "rbenv",
             "repo": "rbenv",
-            "stars": 16732
+            "stars": 16733
           }
         }
       ],
@@ -729,7 +729,7 @@
             "last_commit": "2025-08-22T00:21:50Z",
             "owner": "adam-p",
             "repo": "markdown-here",
-            "stars": 60247
+            "stars": 60248
           }
         },
         {
@@ -744,7 +744,7 @@
             "last_commit": "2024-04-15T20:15:56Z",
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58731
+            "stars": 58735
           }
         }
       ],
@@ -765,7 +765,7 @@
             "last_commit": "2026-08-21T12:39:13Z",
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500368
+            "stars": 500432
           }
         },
         {
@@ -780,7 +780,7 @@
             "last_commit": "2024-06-02T22:46:41Z",
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33628
+            "stars": 33631
           }
         },
         {
@@ -810,7 +810,7 @@
             "last_commit": "2026-05-24T10:07:48Z",
             "owner": "bradtraversy",
             "repo": "design-resources-for-developers",
-            "stars": 66757
+            "stars": 66759
           }
         },
         {
@@ -833,7 +833,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T12:09:30.953Z",
+    "last_updated": "2026-08-27T16:28:25.222Z",
     "original_repository_info": {
       "archived": false,
       "id": 29389853,
