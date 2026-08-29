@@ -10,12 +10,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Broken link checker that crawls websites and validates links. Find broken links, dead links, and invalid URLs in websites, documentation, and local files. Perfect for SEO audits and CI/CD.",
+            "homepage": null,
             "id": 170236232,
             "language": "TypeScript",
-            "last_commit": "2026-08-27T04:23:01Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:04:35Z",
+            "open_issues": 6,
             "owner": "JustinBeckwith",
             "repo": "linkinator",
-            "stars": 1255
+            "stars": 1255,
+            "topics": [
+              "404",
+              "broken-link-checker",
+              "broken-links",
+              "ci-cd",
+              "dead-links",
+              "html",
+              "link-checker",
+              "link-validator",
+              "nodejs",
+              "seo",
+              "seo-tools",
+              "testing",
+              "typescript",
+              "url-validator",
+              "web-crawler",
+              "website-crawler"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -26,12 +48,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Keep multiple browsers & devices in sync when building websites. https://browsersync.io",
+            "homepage": "https://discord.gg/2d2xUThp",
             "id": 13527761,
             "language": "JavaScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-09T08:29:15Z",
+            "open_issues": 575,
             "owner": "BrowserSync",
             "repo": "browser-sync",
-            "stars": 12291
+            "stars": 12291,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -42,12 +69,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, zero-configuration, command-line http server",
+            "homepage": null,
             "id": 1908577,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-04-15T11:09:09Z",
+            "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14230
+            "stars": 14229,
+            "topics": [
+              "command-line",
+              "hacktoberfest",
+              "hosting",
+              "http",
+              "http-server",
+              "server",
+              "static",
+              "static-server"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -58,12 +99,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Static file serving and directory listing",
+            "homepage": "https://npmjs.com/package/serve",
             "id": 57182064,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-30T19:11:35Z",
+            "open_issues": 149,
             "owner": "vercel",
             "repo": "serve",
-            "stars": 9896
+            "stars": 9897,
+            "topics": [
+              "cli",
+              "command",
+              "http",
+              "node"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -74,12 +125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":desktop_computer: Simple and powerful server for Node.js",
+            "homepage": "https://serverjs.io/",
             "id": 76990724,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-26T04:11:44Z",
+            "open_issues": 0,
             "owner": "franciscop",
             "repo": "server",
-            "stars": 3555
+            "stars": 3555,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -90,12 +146,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal and efficient cross-platform file watching library",
+            "homepage": "https://paulmillr.com",
             "id": 4090287,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-16T15:34:26Z",
+            "open_issues": 45,
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12227
+            "stars": 12228,
+            "topics": [
+              "chokidar",
+              "filesystem",
+              "fsevents",
+              "nodejs",
+              "watch-files",
+              "watcher"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -106,12 +174,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Monitor for any changes in your node.js application and automatically restart the server - perfect for development",
+            "homepage": "http://nodemon.io/",
             "id": 958314,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-19T19:50:21Z",
+            "open_issues": 12,
             "owner": "remy",
             "repo": "nodemon",
-            "stars": 26677
+            "stars": 26676,
+            "topics": [
+              "node",
+              "nodemon",
+              "watch"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -122,12 +199,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Use glob patterns to watch file sets and run a command when anything is added, changed or deleted.",
+            "homepage": null,
             "id": 16022081,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-06-18T20:53:10Z",
+            "open_issues": 5,
             "owner": "Qard",
             "repo": "onchange",
-            "stars": 826
+            "stars": 826,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -138,12 +220,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved under github.com/open-cli-tools/concurrently",
+            "homepage": null,
             "id": 390305074,
             "language": null,
+            "license": null,
             "last_commit": "2021-07-28T15:18:58Z",
+            "open_issues": 0,
             "owner": "kimmobrunfeldt",
             "repo": "concurrently",
-            "stars": 5
+            "stars": 5,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -154,12 +241,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A CLI tool to run multiple npm-scripts in parallel or sequential.",
+            "homepage": null,
             "id": 32727687,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-08-15T05:51:28Z",
+            "open_issues": 114,
             "owner": "mysticatea",
             "repo": "npm-run-all",
-            "stars": 5837
+            "stars": 5837,
+            "topics": [
+              "cli",
+              "cli-command",
+              "cli-commands",
+              "javascript",
+              "multi-platform",
+              "npm",
+              "npm-module",
+              "npm-package",
+              "npm-scripts",
+              "parallel",
+              "series"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -170,12 +274,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Run multiple shell commands in parallel",
+            "homepage": null,
             "id": 27354180,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-09-06T01:46:58Z",
+            "open_issues": 20,
             "owner": "darkguy2008",
             "repo": "parallelshell",
-            "stars": 497
+            "stars": 497,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -186,12 +295,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🐱 concatenate files",
+            "homepage": null,
             "id": 79488696,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2018-05-28T14:02:47Z",
+            "open_issues": 6,
             "owner": "gko",
             "repo": "concat",
-            "stars": 40
+            "stars": 40,
+            "topics": [
+              "concat",
+              "concatenate",
+              "concatenate-files"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -202,12 +320,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Copy files",
+            "homepage": null,
             "id": 48960698,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-02-05T07:39:28Z",
+            "open_issues": 0,
             "owner": "sindresorhus",
             "repo": "cpy-cli",
-            "stars": 360
+            "stars": 360,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -218,12 +341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Delete files and directories",
+            "homepage": null,
             "id": 21078071,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-21T15:58:02Z",
+            "open_issues": 16,
             "owner": "sindresorhus",
             "repo": "del",
-            "stars": 1344
+            "stars": 1344,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -234,12 +362,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fast, unopinionated, minimalist web framework for node.",
+            "homepage": "https://expressjs.com",
             "id": 237159,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-08-22T21:00:02Z",
+            "open_issues": 228,
             "owner": "expressjs",
             "repo": "express",
-            "stars": 69401
+            "stars": 69400,
+            "topics": [
+              "express",
+              "javascript",
+              "nodejs",
+              "server"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -250,12 +388,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":rainbow: Node.js bindings to libsass",
+            "homepage": "https://npmjs.org/package/node-sass",
             "id": 4128353,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2024-07-24T21:59:31Z",
+            "open_issues": 187,
             "owner": "sass",
             "repo": "node-sass",
-            "stars": 8458
+            "stars": 8457,
+            "topics": [
+              "libsass",
+              "node-sass",
+              "sass-files",
+              "scss",
+              "scss-files"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -266,12 +415,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Find newer versions of package dependencies than what your package.json allows",
+            "homepage": null,
             "id": 12658090,
             "language": "TypeScript",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T17:23:17Z",
+            "open_issues": 56,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
-            "stars": 10304
+            "stars": 10304,
+            "topics": [
+              "npm",
+              "npm-check-updates"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -282,12 +439,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A `rm -rf` util for nodejs",
+            "homepage": null,
             "id": 1341324,
             "language": "TypeScript",
+            "license": "BlueOak-1.0.0",
             "last_commit": "2026-05-15T19:38:06Z",
+            "open_issues": 10,
             "owner": "isaacs",
             "repo": "rimraf",
-            "stars": 5852
+            "stars": 5852,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         }
@@ -304,12 +466,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An absurdly small jQuery alternative for modern browsers.",
+            "homepage": null,
             "id": 24229490,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-07-17T21:02:06Z",
+            "open_issues": 15,
             "owner": "fabiospampinato",
             "repo": "cash",
-            "stars": 7035
+            "stars": 7035,
+            "topics": [
+              "cash",
+              "dom",
+              "javascript",
+              "jquery",
+              "jquery-alternative",
+              "modern-browsers",
+              "selector",
+              "small",
+              "tiny",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -320,12 +498,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A tiny JavaScript micro-library",
+            "homepage": null,
             "id": 4778575,
             "language": "JavaScript",
+            "license": null,
             "last_commit": "2020-11-13T15:36:17Z",
+            "open_issues": 7,
             "owner": "kylebarrow",
             "repo": "chibi",
-            "stars": 574
+            "stars": 574,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         }
@@ -342,12 +525,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌓 Add a dark-mode / night-mode to your website in a few seconds",
+            "homepage": "https://darkmodejs.learn.uno",
             "id": 191753050,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2023-03-28T12:35:03Z",
+            "open_issues": 42,
             "owner": "sandoche",
             "repo": "Darkmode.js",
-            "stars": 2773
+            "stars": 2773,
+            "topics": [
+              "dark",
+              "dark-theme",
+              "darkmode",
+              "nightmode",
+              "npm",
+              "npm-module",
+              "npm-package",
+              "vanilla-js",
+              "widget"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -358,12 +556,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fluid width (responsive) videos module, 1KB, custom players, dynamic elements/XHR support.",
+            "homepage": "http://toddmotto.com/labs/fluidvids",
             "id": 7761201,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2022-08-11T23:13:32Z",
+            "open_issues": 13,
             "owner": "toddmotto",
             "repo": "fluidvids",
-            "stars": 415
+            "stars": 415,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -374,12 +577,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "JavaScript syntax highlighter with language auto-detection and zero dependencies.",
+            "homepage": "https://highlightjs.org/",
             "id": 1213225,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-08-27T01:02:04Z",
+            "open_issues": 91,
             "owner": "highlightjs",
             "repo": "highlight.js",
-            "stars": 24987
+            "stars": 24987,
+            "topics": [
+              "highlighting",
+              "javascript",
+              "language-grammars",
+              "syntax-highlighter",
+              "syntax-highlighting"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -390,12 +604,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High performance and SEO friendly lazy loader for images (responsive and normal), iframes and more, that detects any visibility changes triggered through user interaction, CSS or JavaScript without configuration.",
+            "homepage": null,
             "id": 25095239,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-04-03T08:17:04Z",
+            "open_issues": 209,
             "owner": "aFarkas",
             "repo": "lazysizes",
-            "stars": 17716
+            "stars": 17716,
+            "topics": [
+              "javascript",
+              "lazy-evaluation",
+              "lazyload",
+              "lazysizes",
+              "performance",
+              "responsive-images"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -406,12 +632,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Footnotes without the footprint.",
+            "homepage": "https://littlefoot.js.org",
             "id": 52560024,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2026-08-27T22:51:45Z",
+            "open_issues": 18,
             "owner": "goblindegook",
             "repo": "littlefoot",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "bigfoot",
+              "dom",
+              "footnotes",
+              "javascript",
+              "markdown",
+              "markdown-html",
+              "ui"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -422,12 +661,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically add a progress bar to your site.",
+            "homepage": "https://codebyzach.github.io/pace/",
             "id": 12774825,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-02-26T22:12:24Z",
+            "open_issues": 278,
             "owner": "CodeByZach",
             "repo": "pace",
-            "stars": 15599
+            "stars": 15599,
+            "topics": [
+              "loading-animation",
+              "loading-bar",
+              "loading-indicator",
+              "pace",
+              "pace-js",
+              "progress-bar"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -438,12 +689,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight, robust, elegant syntax highlighting.",
+            "homepage": "https://prismjs.com",
             "id": 4979467,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2026-06-29T15:55:31Z",
+            "open_issues": 485,
             "owner": "PrismJS",
             "repo": "prism",
-            "stars": 13039
+            "stars": 13039,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -454,12 +710,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":hamburger: An off-canvas sidebar component with a collection of effects and styles using CSS transitions and SVG path animations",
+            "homepage": "http://negomi.github.io/react-burger-menu/",
             "id": 39150065,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-11-14T14:38:45Z",
+            "open_issues": 9,
             "owner": "negomi",
             "repo": "react-burger-menu",
-            "stars": 5086
+            "stars": 5086,
+            "topics": [
+              "animations",
+              "component",
+              "hamburger-menu",
+              "react",
+              "sidebar",
+              "transitions"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -470,12 +738,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Content aware image cropping",
+            "homepage": "http://29a.ch/2014/04/03/smartcrop-content-aware-image-cropping",
             "id": 18405734,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2024-03-16T23:45:27Z",
+            "open_issues": 23,
             "owner": "jwagner",
             "repo": "smartcrop.js",
-            "stars": 12955
+            "stars": 12955,
+            "topics": [
+              "image-processing",
+              "javascript",
+              "nodejs",
+              "smartcrop"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -486,12 +764,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CSS Tooltips built on Tether. #hubspot-open-source",
+            "homepage": "http://github.hubspot.com/tooltip/docs/welcome",
             "id": 15270032,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2016-11-28T14:17:18Z",
+            "open_issues": 18,
             "owner": "HubSpot",
             "repo": "tooltip",
-            "stars": 709
+            "stars": 709,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -502,12 +785,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Turbolinks makes navigating your web application faster",
+            "homepage": null,
             "id": 50807547,
             "language": "TypeScript",
+            "license": "MIT",
             "last_commit": "2021-08-11T02:49:14Z",
+            "open_issues": 99,
             "owner": "turbolinks",
             "repo": "turbolinks",
-            "stars": 12580
+            "stars": 12580,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         }
@@ -524,12 +812,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🗜 JavaScript parser, mangler and compressor toolkit for ES6+",
+            "homepage": "https://terser.org",
             "id": 29097127,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-27T11:26:24Z",
+            "open_issues": 351,
             "owner": "terser",
             "repo": "terser",
-            "stars": 9327
+            "stars": 9327,
+            "topics": [
+              "compressor",
+              "es6",
+              "javascript",
+              "mangler",
+              "parser",
+              "uglifyjs"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -540,12 +840,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " JavaScript parser / mangler / compressor / beautifier toolkit",
+            "homepage": "http://lisperator.net/uglifyjs/",
             "id": 5569059,
             "language": "JavaScript",
+            "license": "NOASSERTION",
             "last_commit": "2024-11-22T08:11:38Z",
+            "open_issues": 45,
             "owner": "mishoo",
             "repo": "UglifyJS",
-            "stars": 13383
+            "stars": 13383,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         }
@@ -562,12 +867,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An Utility CSS only library. It supports css grid and many more useful css properties.",
+            "homepage": null,
             "id": 168170002,
             "language": "CSS",
+            "license": "MIT",
             "last_commit": "2024-06-16T10:30:17Z",
+            "open_issues": 5,
             "owner": "tretapey",
             "repo": "raisincss",
-            "stars": 118
+            "stars": 118,
+            "topics": [
+              "css",
+              "css-grid",
+              "library",
+              "open-source",
+              "raisincss",
+              "scss",
+              "utilities"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -578,12 +896,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The standard CSS implementation of the Spectrum design language.",
+            "homepage": "http://opensource.adobe.com/spectrum-css/",
             "id": 156265758,
             "language": "CSS",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-26T10:35:54Z",
+            "open_issues": 18,
             "owner": "adobe",
             "repo": "spectrum-css",
-            "stars": 1289
+            "stars": 1290,
+            "topics": [
+              "css",
+              "design-system"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         }
@@ -600,12 +926,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Framework for building Themes",
+            "homepage": null,
             "id": 511014398,
             "language": null,
+            "license": "MIT",
             "last_commit": "2023-10-12T02:42:54Z",
+            "open_issues": 1,
             "owner": "chriskempson",
             "repo": "base16",
-            "stars": 963
+            "stars": 963,
+            "topics": [
+              "base16",
+              "colour-schemes",
+              "framework",
+              "guidelines",
+              "themes"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -616,12 +953,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Smarter defaults for colors on the web.",
+            "homepage": "http://clrs.cc",
             "id": 10731382,
             "language": "CSS",
+            "license": "NOASSERTION",
             "last_commit": "2023-07-20T09:56:41Z",
+            "open_issues": 16,
             "owner": "mrmrs",
             "repo": "colors",
-            "stars": 9411
+            "stars": 9412,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -632,12 +974,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "precision color scheme for multiple applications (terminal, vim, etc.) with both dark/light modes",
+            "homepage": "http://ethanschoonover.com/solarized",
             "id": 1381283,
             "language": "Vim script",
+            "license": "MIT",
             "last_commit": "2024-07-11T19:57:30Z",
+            "open_issues": 220,
             "owner": "altercation",
             "repo": "solarized",
-            "stars": 16011
+            "stars": 16011,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         }
@@ -654,12 +1001,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A modified web browser that helps in responsive web development. A web developer's must have dev-tool.",
+            "homepage": "https://responsively.app",
             "id": 201570219,
             "language": "TypeScript",
+            "license": "AGPL-3.0",
             "last_commit": "2026-08-02T05:24:28Z",
+            "open_issues": 321,
             "owner": "responsively-org",
             "repo": "responsively-app",
-            "stars": 25141
+            "stars": 25142,
+            "topics": [
+              "contributions-welcome",
+              "desktop-app",
+              "developer-tools",
+              "electron",
+              "good-first-issue",
+              "hacktoberfest",
+              "javascript",
+              "opensource-alternative",
+              "react",
+              "redux",
+              "responsive",
+              "responsive-web-design",
+              "web-development"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         }
@@ -676,12 +1042,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Home Office Digital repository of posters covering different topics - research, access needs, accessibility, design.",
+            "homepage": null,
             "id": 60259108,
             "language": null,
+            "license": "NOASSERTION",
             "last_commit": "2025-05-30T12:44:56Z",
+            "open_issues": 25,
             "owner": "UKHomeOffice",
             "repo": "posters",
-            "stars": 2915
+            "stars": 2915,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         }
@@ -698,12 +1069,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": ":blue_car: Like pyenv and rbenv, but for Go.",
+            "homepage": "https://github.com/go-nv/goenv",
             "id": 56429359,
             "language": "Shell",
-            "last_commit": "2026-08-20T12:49:07Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T02:33:43Z",
+            "open_issues": 21,
             "owner": "go-nv",
             "repo": "goenv",
-            "stars": 2540
+            "stars": 2540,
+            "topics": [
+              "bash",
+              "go",
+              "goenv",
+              "golang",
+              "homebrew",
+              "pyenv",
+              "rbenv",
+              "shims-goenv",
+              "version-manager"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -714,12 +1100,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage your app's Node.js environment",
+            "homepage": null,
             "id": 8685986,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-24T03:08:50Z",
+            "open_issues": 10,
             "owner": "nodenv",
             "repo": "nodenv",
-            "stars": 2414
+            "stars": 2414,
+            "topics": [
+              "node",
+              "nodejs",
+              "nodenv",
+              "shell",
+              "version-manager"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -730,12 +1127,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Simple Python version management",
+            "homepage": null,
             "id": 5625464,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-08-28T12:36:28Z",
+            "open_issues": 54,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45052
+            "stars": 45056,
+            "topics": [
+              "python",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -746,12 +1151,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Manage your app's Ruby environment",
+            "homepage": "https://rbenv.org/",
             "id": 2139017,
             "language": "Shell",
+            "license": "MIT",
             "last_commit": "2026-07-14T14:02:43Z",
+            "open_issues": 15,
             "owner": "rbenv",
             "repo": "rbenv",
-            "stars": 16732
+            "stars": 16732,
+            "topics": [
+              "bash",
+              "ruby",
+              "ruby-installation",
+              "ruby-versions",
+              "shell"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         }
@@ -768,12 +1184,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Google Chrome, Firefox, and Thunderbird extension that lets you write email in Markdown and render it before sending.",
+            "homepage": "https://markdown-here.com",
             "id": 4311796,
             "language": "JavaScript",
+            "license": "MIT",
             "last_commit": "2025-08-22T00:21:50Z",
+            "open_issues": 318,
             "owner": "adam-p",
             "repo": "markdown-here",
-            "stars": 60248
+            "stars": 60249,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -784,12 +1205,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A list of cool features of Git and GitHub.",
+            "homepage": "http://git.io/sheet",
             "id": 18708860,
             "language": null,
+            "license": "MIT",
             "last_commit": "2024-04-15T20:15:56Z",
+            "open_issues": 48,
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 58762
+            "stars": 58774,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "git",
+              "github",
+              "list"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         }
@@ -806,12 +1238,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "😎 Awesome lists about all kinds of interesting topics [NOTE: Pull requests are temporarily disabled until I have a chance to catch up with the existing ones]",
+            "homepage": null,
             "id": 21737465,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2026-08-21T12:39:13Z",
+            "open_issues": 105,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 500788
+            "stars": 500893,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "resources",
+              "unicorns"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -822,12 +1265,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome awesomeness",
+            "homepage": null,
             "id": 21600440,
             "language": "Ruby",
+            "license": null,
             "last_commit": "2024-06-02T22:46:41Z",
+            "open_issues": 61,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33633
+            "stars": 33634,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -838,12 +1286,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A curated list of awesome curated lists of many topics.",
+            "homepage": null,
             "id": 21388604,
             "language": null,
+            "license": "CC0-1.0",
             "last_commit": "2024-07-31T23:19:05Z",
+            "open_issues": 25,
             "owner": "emijrp",
             "repo": "awesome-awesome",
-            "stars": 3203
+            "stars": 3203,
+            "topics": [
+              "awesome",
+              "awesome-list"
+            ]
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -854,12 +1310,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Curated list of design and UI resources from stock photos, web templates, CSS frameworks, UI libraries, tools and much more",
+            "homepage": null,
             "id": 261787758,
             "language": null,
+            "license": "MIT",
             "last_commit": "2026-05-24T10:07:48Z",
+            "open_issues": 103,
             "owner": "bradtraversy",
             "repo": "design-resources-for-developers",
-            "stars": 66768
+            "stars": 66770,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         },
@@ -870,12 +1331,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Social Share URLs",
+            "homepage": null,
             "id": 13703570,
             "language": "JavaScript",
+            "license": "BSD-3-Clause",
             "last_commit": "2024-03-04T16:23:44Z",
+            "open_issues": 22,
             "owner": "bradvin",
             "repo": "social-share-urls",
-            "stars": 2831
+            "stars": 2831,
+            "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
         }
@@ -884,15 +1350,30 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T17:24:56.319Z",
+    "last_updated": "2026-08-29T04:50:04.525Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A list of open source front-end tools and resources for web designers and developers.",
+      "homepage": null,
       "id": 29389853,
       "language": null,
+      "license": null,
       "last_commit": "2024-08-10T15:40:25Z",
+      "open_issues": 22,
       "owner": "milanaryal",
       "repo": "web-development-resources",
-      "stars": 221
+      "stars": 221,
+      "topics": [
+        "awesome",
+        "awesome-list",
+        "framework",
+        "front-end-development",
+        "resources",
+        "web-application",
+        "web-design",
+        "web-development",
+        "web-development-tools"
+      ]
     },
     "original_repository_sha": "b8ef79c8acca89931f5e1df5a319a84e0b3ad1b5",
     "enhanced_repository": "enhansome/enhansome-web-development-resources",
