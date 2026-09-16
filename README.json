@@ -15,7 +15,7 @@
             "id": 170236232,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T03:19:57Z",
+            "last_commit": "2026-09-16T04:57:34Z",
             "open_issues": 6,
             "owner": "JustinBeckwith",
             "repo": "linkinator",
@@ -78,7 +78,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14234,
+            "stars": 14236,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -155,7 +155,7 @@
             "open_issues": 48,
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12237,
+            "stars": 12239,
             "topics": [
               "chokidar",
               "filesystem",
@@ -180,7 +180,7 @@
             "language": "JavaScript",
             "license": "MIT",
             "last_commit": "2026-09-12T08:25:12Z",
-            "open_issues": 13,
+            "open_issues": 14,
             "owner": "remy",
             "repo": "nodemon",
             "stars": 26665,
@@ -367,11 +367,11 @@
             "id": 237159,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T14:40:57Z",
-            "open_issues": 229,
+            "last_commit": "2026-09-15T17:52:26Z",
+            "open_issues": 230,
             "owner": "expressjs",
             "repo": "express",
-            "stars": 69450,
+            "stars": 69448,
             "topics": [
               "express",
               "javascript",
@@ -420,11 +420,11 @@
             "id": 12658090,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T06:43:59Z",
-            "open_issues": 30,
+            "last_commit": "2026-09-16T05:05:45Z",
+            "open_issues": 31,
             "owner": "raineorshine",
             "repo": "npm-check-updates",
-            "stars": 10316,
+            "stars": 10317,
             "topics": [
               "npm",
               "npm-check-updates"
@@ -586,7 +586,7 @@
             "open_issues": 109,
             "owner": "highlightjs",
             "repo": "highlight.js",
-            "stars": 24991,
+            "stars": 24993,
             "topics": [
               "highlighting",
               "javascript",
@@ -613,7 +613,7 @@
             "open_issues": 209,
             "owner": "aFarkas",
             "repo": "lazysizes",
-            "stars": 17716,
+            "stars": 17715,
             "topics": [
               "javascript",
               "lazy-evaluation",
@@ -637,8 +637,8 @@
             "id": 52560024,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-09-14T16:42:30Z",
-            "open_issues": 20,
+            "last_commit": "2026-09-16T00:31:39Z",
+            "open_issues": 16,
             "owner": "goblindegook",
             "repo": "littlefoot",
             "stars": 255,
@@ -670,7 +670,7 @@
             "open_issues": 278,
             "owner": "CodeByZach",
             "repo": "pace",
-            "stars": 15595,
+            "stars": 15594,
             "topics": [
               "loading-animation",
               "loading-bar",
@@ -694,11 +694,11 @@
             "id": 4979467,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-09-15T09:35:40Z",
-            "open_issues": 486,
+            "last_commit": "2026-09-16T07:33:06Z",
+            "open_issues": 489,
             "owner": "PrismJS",
             "repo": "prism",
-            "stars": 13039,
+            "stars": 13040,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
@@ -719,7 +719,7 @@
             "open_issues": 9,
             "owner": "negomi",
             "repo": "react-burger-menu",
-            "stars": 5085,
+            "stars": 5084,
             "topics": [
               "animations",
               "component",
@@ -794,7 +794,7 @@
             "open_issues": 99,
             "owner": "turbolinks",
             "repo": "turbolinks",
-            "stars": 12577,
+            "stars": 12578,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
@@ -818,7 +818,7 @@
             "language": "JavaScript",
             "license": "NOASSERTION",
             "last_commit": "2026-09-13T17:53:32Z",
-            "open_issues": 359,
+            "open_issues": 360,
             "owner": "terser",
             "repo": "terser",
             "stars": 9336,
@@ -849,7 +849,7 @@
             "open_issues": 45,
             "owner": "mishoo",
             "repo": "UglifyJS",
-            "stars": 13382,
+            "stars": 13381,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
@@ -901,7 +901,7 @@
             "id": 156265758,
             "language": "CSS",
             "license": "Apache-2.0",
-            "last_commit": "2026-09-14T20:53:46Z",
+            "last_commit": "2026-09-15T21:00:51Z",
             "open_issues": 19,
             "owner": "adobe",
             "repo": "spectrum-css",
@@ -935,7 +935,7 @@
             "open_issues": 2,
             "owner": "chriskempson",
             "repo": "base16",
-            "stars": 966,
+            "stars": 967,
             "topics": [
               "base16",
               "colour-schemes",
@@ -983,7 +983,7 @@
             "open_issues": 220,
             "owner": "altercation",
             "repo": "solarized",
-            "stars": 16014,
+            "stars": 16013,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
@@ -1010,7 +1010,7 @@
             "open_issues": 324,
             "owner": "responsively-org",
             "repo": "responsively-app",
-            "stars": 25165,
+            "stars": 25172,
             "topics": [
               "contributions-welcome",
               "desktop-app",
@@ -1133,10 +1133,10 @@
             "language": "Shell",
             "license": "MIT",
             "last_commit": "2026-09-14T23:24:23Z",
-            "open_issues": 56,
+            "open_issues": 59,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45102,
+            "stars": 45104,
             "topics": [
               "python",
               "shell"
@@ -1193,7 +1193,7 @@
             "open_issues": 319,
             "owner": "adam-p",
             "repo": "markdown-here",
-            "stars": 60248,
+            "stars": 60247,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
@@ -1214,7 +1214,7 @@
             "open_issues": 48,
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 59063,
+            "stars": 59088,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1247,7 +1247,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 506193,
+            "stars": 506549,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1274,7 +1274,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33672,
+            "stars": 33676,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
@@ -1316,10 +1316,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-05-24T10:07:48Z",
-            "open_issues": 126,
+            "open_issues": 127,
             "owner": "bradtraversy",
             "repo": "design-resources-for-developers",
-            "stars": 66942,
+            "stars": 66948,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
@@ -1340,7 +1340,7 @@
             "open_issues": 22,
             "owner": "bradvin",
             "repo": "social-share-urls",
-            "stars": 2832,
+            "stars": 2833,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
@@ -1350,7 +1350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-15T10:01:32.422Z",
+    "last_updated": "2026-09-16T09:53:40.215Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of open source front-end tools and resources for web designers and developers.",
