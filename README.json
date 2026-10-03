@@ -78,7 +78,7 @@
             "open_issues": 108,
             "owner": "http-party",
             "repo": "http-server",
-            "stars": 14236,
+            "stars": 14237,
             "topics": [
               "command-line",
               "hacktoberfest",
@@ -371,7 +371,7 @@
             "open_issues": 238,
             "owner": "expressjs",
             "repo": "express",
-            "stars": 69503,
+            "stars": 69501,
             "topics": [
               "express",
               "javascript",
@@ -1010,7 +1010,7 @@
             "open_issues": 325,
             "owner": "responsively-org",
             "repo": "responsively-app",
-            "stars": 25217,
+            "stars": 25220,
             "topics": [
               "contributions-welcome",
               "desktop-app",
@@ -1132,11 +1132,11 @@
             "id": 5625464,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-10-03T04:39:58Z",
-            "open_issues": 52,
+            "last_commit": "2026-10-03T08:31:00Z",
+            "open_issues": 51,
             "owner": "pyenv",
             "repo": "pyenv",
-            "stars": 45121,
+            "stars": 45123,
             "topics": [
               "python",
               "shell"
@@ -1193,7 +1193,7 @@
             "open_issues": 319,
             "owner": "adam-p",
             "repo": "markdown-here",
-            "stars": 60262,
+            "stars": 60261,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
@@ -1214,7 +1214,7 @@
             "open_issues": 49,
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 59418,
+            "stars": 59420,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1247,7 +1247,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 513802,
+            "stars": 513879,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1274,7 +1274,7 @@
             "open_issues": 65,
             "owner": "bayandin",
             "repo": "awesome-awesomeness",
-            "stars": 33696,
+            "stars": 33695,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
@@ -1316,10 +1316,10 @@
             "language": null,
             "license": "MIT",
             "last_commit": "2026-05-24T10:07:48Z",
-            "open_issues": 156,
+            "open_issues": 158,
             "owner": "bradtraversy",
             "repo": "design-resources-for-developers",
-            "stars": 67073,
+            "stars": 67075,
             "topics": []
           },
           "first_seen": "2026-08-28T17:24:56.319Z"
@@ -1350,7 +1350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T05:12:05.556Z",
+    "last_updated": "2026-10-03T10:22:29.987Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of open source front-end tools and resources for web designers and developers.",
