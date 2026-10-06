@@ -155,7 +155,7 @@
             "open_issues": 0,
             "owner": "paulmillr",
             "repo": "chokidar",
-            "stars": 12244,
+            "stars": 12245,
             "topics": [
               "chokidar",
               "filesystem",
@@ -371,7 +371,7 @@
             "open_issues": 242,
             "owner": "expressjs",
             "repo": "express",
-            "stars": 69553,
+            "stars": 69564,
             "topics": [
               "express",
               "javascript",
@@ -1010,7 +1010,7 @@
             "open_issues": 326,
             "owner": "responsively-org",
             "repo": "responsively-app",
-            "stars": 25225,
+            "stars": 25224,
             "topics": [
               "contributions-welcome",
               "desktop-app",
@@ -1214,7 +1214,7 @@
             "open_issues": 50,
             "owner": "tiimgreen",
             "repo": "github-cheat-sheet",
-            "stars": 59485,
+            "stars": 59487,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1247,7 +1247,7 @@
             "open_issues": 106,
             "owner": "sindresorhus",
             "repo": "awesome",
-            "stars": 515370,
+            "stars": 515390,
             "topics": [
               "awesome",
               "awesome-list",
@@ -1350,7 +1350,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T11:00:19.161Z",
+    "last_updated": "2026-10-06T11:59:37.702Z",
     "original_repository_info": {
       "archived": false,
       "description": "A list of open source front-end tools and resources for web designers and developers.",
